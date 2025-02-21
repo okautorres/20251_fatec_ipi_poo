@@ -1,4 +1,3 @@
-
 def menu():
     print("=====================================")
     print("             Calculadora")
