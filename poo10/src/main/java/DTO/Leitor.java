@@ -43,4 +43,16 @@ public class Leitor extends Pessoa {
     }
 
 
+
+    public void guardar(){
+
+    }
+    
+    public void carregar(){
+
+    }
+
+    public void listar(){
+
+    }
 }
